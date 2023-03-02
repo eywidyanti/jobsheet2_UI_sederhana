@@ -3,6 +3,10 @@
 A new Flutter project.
 ![output](images/output.jpeg)
 ![hasil](images/hasil.jpeg)
+BARU
+![Terbaru](images/baru.png)
+![Terbaru2](images/baru2.png)
+
 
 ## Getting Started
 
